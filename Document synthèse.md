@@ -229,7 +229,10 @@ Analyse UX basée sur 4 interviews utilisateurs et patterns industry best practi
 
 
 ## Screen 1 : 
-![Dashboard](Diagramme_de_cas_ticketing.png)
+![Dashboard_1](Dashboard_1.png)
 
 ## Screen 2 : 
-![Tickets](Diagramme_de_cas_ticketing.png)
+![Dashboard_2](Dashboard_2.png)
+
+## Screen 3 : 
+![Tickets](Tickets.png)
