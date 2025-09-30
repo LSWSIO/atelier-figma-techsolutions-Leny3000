@@ -226,3 +226,10 @@ Adoption mobile : Techniciens itinérants équipés efficacement
 ---
 Document généré dans le cadre du projet TechSolutions - Gestion Tickets  
 Analyse UX basée sur 4 interviews utilisateurs et patterns industry best practices
+
+
+## Screen 1 : 
+![Dashboard](Diagramme_de_cas_ticketing.png)
+
+## Screen 2 : 
+![Tickets](Diagramme_de_cas_ticketing.png)
